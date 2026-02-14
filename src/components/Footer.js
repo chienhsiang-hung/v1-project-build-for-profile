@@ -9,8 +9,7 @@ import {
 import { FaLinkedinIn, FaKaggle } from "react-icons/fa";
 
 function Footer() {
-  let date = new Date();
-  let year = date.getFullYear();
+
   return (
     <Container fluid className="footer">
       <Row>
@@ -18,7 +17,7 @@ function Footer() {
           {/* <h3>Designed and Developed by Soumyajit Behera</h3> */}
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Copyright © 2022 - {year} <a href="/#" style={{ textDecoration:"inherit", color:"inherit" }}>HCH</a></h3>
+          <h3>Copyright © 2022 - 2025 <a href="/" style={{ textDecoration:"inherit", color:"inherit" }}>HCH</a></h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">

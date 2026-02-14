@@ -11,7 +11,7 @@ function Projects() {
           Just for <strong className="purple">fun!</strong>
         </h1>
         <p style={{ color: "white" }}>
-          {"Here are a few Side-projects I've worked on previously amaturely :)"}
+          {"Here are a few Side-projects I've worked on previously casually :)"}
         </p>
 
         {projects_list.map((_, index) => (
