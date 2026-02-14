@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.27496772.css",
-    "main.js": "/static/js/main.5546a477.js",
-    "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
-    "static/media/Embed-Medium-on-Website.png": "/static/media/Embed-Medium-on-Website.c365668ffed09b1801b6.png",
-    "static/media/Taiwan-NRICM101-Map.png": "/static/media/Taiwan-NRICM101-Map.3f77d920e0b80dccbd69.png",
-    "static/media/Hung_ChienHsiang_Resume.pdf": "/static/media/Hung_ChienHsiang_Resume.e6b5fccc2faa604a0f85.pdf",
-    "static/media/VoiceAndWavCloningImage.png": "/static/media/VoiceAndWavCloningImage.fd1b687de48e58d61ad8.png",
-    "static/media/Kaggle-Profile-Card-API.png": "/static/media/Kaggle-Profile-Card-API.dc4078a6fa891f462a30.png",
-    "static/media/home-main.png": "/static/media/home-main.5403cf1358f3c78ef3b8.png",
-    "static/media/JavaScriptLanguageSwitcher.png": "/static/media/JavaScriptLanguageSwitcher.aafa01dc2c57cc8b2cab.png",
-    "static/media/avatar.png": "/static/media/avatar.1f9bd6d1150f8625c37b.png",
-    "static/media/about.png": "/static/media/about.fe9aa90d132197b4cf06.png",
-    "static/media/givemesql.png": "/static/media/givemesql.284584a23ab400ef5ce2.png",
-    "static/media/home-bg.jpg": "/static/media/home-bg.b3ca291b191434fa5c1e.jpg",
-    "static/media/logo.svg": "/static/media/logo.b1088aa1ab5d761d6032bdd0b41d6368.svg",
-    "index.html": "/index.html",
-    "static/media/pre.svg": "/static/media/pre.7bdf5eb9ccbf9ab2cb57.svg",
-    "main.27496772.css.map": "/static/css/main.27496772.css.map",
-    "main.5546a477.js.map": "/static/js/main.5546a477.js.map",
-    "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
+    "main.css": "/v1-project-build-for-profile/static/css/main.0e4e65ae.css",
+    "main.js": "/v1-project-build-for-profile/static/js/main.ff62bd35.js",
+    "static/js/453.1407b060.chunk.js": "/v1-project-build-for-profile/static/js/453.1407b060.chunk.js",
+    "static/media/Embed-Medium-on-Website.png": "/v1-project-build-for-profile/static/media/Embed-Medium-on-Website.c365668ffed09b1801b6.png",
+    "static/media/Taiwan-NRICM101-Map.png": "/v1-project-build-for-profile/static/media/Taiwan-NRICM101-Map.3f77d920e0b80dccbd69.png",
+    "static/media/Hung_ChienHsiang_Resume.pdf": "/v1-project-build-for-profile/static/media/Hung_ChienHsiang_Resume.e6b5fccc2faa604a0f85.pdf",
+    "static/media/VoiceAndWavCloningImage.png": "/v1-project-build-for-profile/static/media/VoiceAndWavCloningImage.fd1b687de48e58d61ad8.png",
+    "static/media/Kaggle-Profile-Card-API.png": "/v1-project-build-for-profile/static/media/Kaggle-Profile-Card-API.dc4078a6fa891f462a30.png",
+    "static/media/home-main.png": "/v1-project-build-for-profile/static/media/home-main.5403cf1358f3c78ef3b8.png",
+    "static/media/JavaScriptLanguageSwitcher.png": "/v1-project-build-for-profile/static/media/JavaScriptLanguageSwitcher.aafa01dc2c57cc8b2cab.png",
+    "static/media/avatar.png": "/v1-project-build-for-profile/static/media/avatar.1f9bd6d1150f8625c37b.png",
+    "static/media/about.png": "/v1-project-build-for-profile/static/media/about.fe9aa90d132197b4cf06.png",
+    "static/media/givemesql.png": "/v1-project-build-for-profile/static/media/givemesql.284584a23ab400ef5ce2.png",
+    "static/media/home-bg.jpg": "/v1-project-build-for-profile/static/media/home-bg.b3ca291b191434fa5c1e.jpg",
+    "static/media/logo.svg": "/v1-project-build-for-profile/static/media/logo.b1088aa1ab5d761d6032bdd0b41d6368.svg",
+    "index.html": "/v1-project-build-for-profile/index.html",
+    "static/media/pre.svg": "/v1-project-build-for-profile/static/media/pre.7bdf5eb9ccbf9ab2cb57.svg",
+    "main.0e4e65ae.css.map": "/v1-project-build-for-profile/static/css/main.0e4e65ae.css.map",
+    "main.ff62bd35.js.map": "/v1-project-build-for-profile/static/js/main.ff62bd35.js.map",
+    "453.1407b060.chunk.js.map": "/v1-project-build-for-profile/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.27496772.css",
-    "static/js/main.5546a477.js"
+    "static/css/main.0e4e65ae.css",
+    "static/js/main.ff62bd35.js"
   ]
 }
