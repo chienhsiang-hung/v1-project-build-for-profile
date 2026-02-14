@@ -72,7 +72,7 @@ function NavBar() {
             <Nav.Item>
               <Nav.Link
                 as={Link}
-                to="/#"
+                to="/v1-project-build-for-profile"
                 onClick={() => updateExpanded(false)}
               >
                 <AiOutlineFundProjectionScreen
@@ -104,7 +104,7 @@ function NavBar() {
 
             <Nav.Item className="fork-btn">
               <Button
-                href="https://github.com/chienhsiang-hung/chienhsiang-hung.github.io"
+                href="https://github.com/chienhsiang-hung/chienhsiang-hung.github.io/tree/react.js"
                 target="_blank"
                 className="fork-btn-inner"
               >

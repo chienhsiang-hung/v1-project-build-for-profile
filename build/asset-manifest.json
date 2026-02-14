@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/v1-project-build-for-profile/static/css/main.0e4e65ae.css",
-    "main.js": "/v1-project-build-for-profile/static/js/main.ff62bd35.js",
+    "main.js": "/v1-project-build-for-profile/static/js/main.097cceae.js",
     "static/js/453.1407b060.chunk.js": "/v1-project-build-for-profile/static/js/453.1407b060.chunk.js",
     "static/media/Embed-Medium-on-Website.png": "/v1-project-build-for-profile/static/media/Embed-Medium-on-Website.c365668ffed09b1801b6.png",
     "static/media/Taiwan-NRICM101-Map.png": "/v1-project-build-for-profile/static/media/Taiwan-NRICM101-Map.3f77d920e0b80dccbd69.png",
@@ -18,11 +18,11 @@
     "index.html": "/v1-project-build-for-profile/index.html",
     "static/media/pre.svg": "/v1-project-build-for-profile/static/media/pre.7bdf5eb9ccbf9ab2cb57.svg",
     "main.0e4e65ae.css.map": "/v1-project-build-for-profile/static/css/main.0e4e65ae.css.map",
-    "main.ff62bd35.js.map": "/v1-project-build-for-profile/static/js/main.ff62bd35.js.map",
+    "main.097cceae.js.map": "/v1-project-build-for-profile/static/js/main.097cceae.js.map",
     "453.1407b060.chunk.js.map": "/v1-project-build-for-profile/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0e4e65ae.css",
-    "static/js/main.ff62bd35.js"
+    "static/js/main.097cceae.js"
   ]
 }
